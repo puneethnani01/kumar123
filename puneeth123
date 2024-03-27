@@ -1,0 +1,7 @@
+from selenium import webdriver
+# driver=webdriver.Chrome()
+# driver.maximize_window()
+# driver.get('https://snapdeal.com/')
+# time.sleep(3)
+# driver.find_element('xpath','(//img[@class="social-img"]) [4]').click()
+# time.sleep(3)
